@@ -1,6 +1,6 @@
 import React from 'react'
 
-class Counter extends React.Component {
+class  Timer  extends React.Component {
 
   state = {
     num: 0,
@@ -23,4 +23,4 @@ class Counter extends React.Component {
   }
 }
 
-export default Counter
+export default Timer

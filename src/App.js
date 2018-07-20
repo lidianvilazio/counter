@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 import './App.css';
-import Counter from './Components/Counter'
+import Timer from './Components/Timer'
 
 class App extends Component {
   render() {
     return (
       <div className='App'>
-        <Counter/>
+        <Timer/>
       </div>
     );
   }
